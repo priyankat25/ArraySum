@@ -8,3 +8,6 @@ Input: 5
        5 10 15 20 25
 Output: 75
 
+Input: 5 
+       -2 7 -15 10 3
+Output: 3
